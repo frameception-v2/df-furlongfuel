@@ -1,3 +1,4 @@
-export const PROJECT_ID = 'farcaster-frames-template';
-export const PROJECT_TITLE = "Farcaster Frames Template";
-export const PROJECT_DESCRIPTION = "A Farcaster Frames v2 Template by hellno";
+export const PROJECT_ID = 'send-eth-to-furlong';
+export const PROJECT_TITLE = "Send ETH to furlong.eth";
+export const PROJECT_DESCRIPTION = "A Farcaster Frame to send ETH to furlong.eth";
+export const RECIPIENT_ADDRESS = "furlong.eth";
